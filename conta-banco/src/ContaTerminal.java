@@ -1,4 +1,4 @@
-// TODO:conhecer e importar a classe scanner
+//TODO:conhecer e importar a classe scanner
 import java.util.Scanner;
 
 public class ContaTerminal {
@@ -29,7 +29,7 @@ public class ContaTerminal {
 		saldo = sc.nextDouble();
         
 		//Exibir mesagem conta criada
-		
+
 		System.out.println();
 		System.out.printf("Olá %s, obrigado por criar uma conta em "
 				+ "nosso banco, sua agência é %s, "
